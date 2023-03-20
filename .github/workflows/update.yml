@@ -6,10 +6,13 @@ on:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
 
+
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    permissions:
+      content: write
     steps:
       - uses: athul/waka-readme@master
         with:
