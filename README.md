@@ -1,7 +1,7 @@
 ### Stats 👋
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 30 September 2022 - To: 01 June 2023
 
 Total Time: 397 hrs 11 mins
