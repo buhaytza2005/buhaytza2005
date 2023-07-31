@@ -2,18 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2022 - To: 29 July 2023
+From: 30 September 2022 - To: 30 July 2023
 
-Total Time: 525 hrs 49 mins
+Total Time: 532 hrs 20 mins
 
-Python              430 hrs 54 mins >>>>>>>>>>>>>>>>>>>>-----   81.95 %
-Rust                19 hrs 44 mins  >------------------------   03.76 %
-Markdown            13 hrs 25 mins  >------------------------   02.55 %
-TeX                 12 hrs 33 mins  >------------------------   02.39 %
-TypeScript          9 hrs 22 mins   -------------------------   01.78 %
-HTML                7 hrs 43 mins   -------------------------   01.47 %
-Other               5 hrs 6 mins    -------------------------   00.97 %
-Crontab             4 hrs 37 mins   -------------------------   00.88 %
+Python              436 hrs 10 mins >>>>>>>>>>>>>>>>>>>>-----   81.94 %
+Rust                20 hrs 40 mins  >------------------------   03.88 %
+Markdown            13 hrs 25 mins  >------------------------   02.52 %
+TeX                 12 hrs 33 mins  >------------------------   02.36 %
+TypeScript          9 hrs 22 mins   -------------------------   01.76 %
+HTML                7 hrs 43 mins   -------------------------   01.45 %
+Other               5 hrs 24 mins   -------------------------   01.02 %
+Crontab             4 hrs 37 mins   -------------------------   00.87 %
 JavaScript          3 hrs 26 mins   -------------------------   00.65 %
 JSON                3 hrs           -------------------------   00.57 %
 ```
