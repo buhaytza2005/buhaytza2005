@@ -2,11 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2022 - To: 07 May 2024
+From: 30 September 2022 - To: 08 May 2024
 
-Total Time: 1,316 hrs 7 mins
+Total Time: 1,316 hrs 23 mins
 
-Python              682 hrs 28 mins >>>>>>>>>>>>>------------   51.85 %
+Python              682 hrs 28 mins >>>>>>>>>>>>>------------   51.84 %
 Rust                374 hrs 58 mins >>>>>>>------------------   28.49 %
 Markdown            55 hrs 27 mins  >------------------------   04.21 %
 Go                  43 hrs 40 mins  >------------------------   03.32 %
