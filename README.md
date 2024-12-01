@@ -2,16 +2,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2022 - To: 29 November 2024
+From: 30 September 2022 - To: 30 November 2024
 
-Total Time: 2,163 hrs 7 mins
+Total Time: 2,166 hrs 38 mins
 
-Rust                912 hrs 46 mins >>>>>>>>>>>--------------   42.20 %
-Python              751 hrs 6 mins  >>>>>>>>>----------------   34.72 %
-Markdown            77 hrs 12 mins  >------------------------   03.57 %
-Other               70 hrs 8 mins   >------------------------   03.24 %
+Rust                912 hrs 46 mins >>>>>>>>>>>--------------   42.13 %
+Python              751 hrs 6 mins  >>>>>>>>>----------------   34.67 %
+Markdown            79 hrs 34 mins  >------------------------   03.67 %
+Other               70 hrs 15 mins  >------------------------   03.24 %
 Go                  63 hrs 51 mins  >------------------------   02.95 %
-HTML                59 hrs 18 mins  >------------------------   02.74 %
+HTML                59 hrs 25 mins  >------------------------   02.74 %
 YAML                25 hrs 44 mins  -------------------------   01.19 %
 Bash                22 hrs 44 mins  -------------------------   01.05 %
 SQL                 19 hrs 33 mins  -------------------------   00.90 %
