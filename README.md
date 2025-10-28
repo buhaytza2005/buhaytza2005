@@ -2,17 +2,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2022 - To: 26 October 2025
+From: 30 September 2022 - To: 27 October 2025
 
-Total Time: 2,797 hrs 44 mins
+Total Time: 2,799 hrs 6 mins
 
-Rust                               802 hrs 21 mins >>>>>>>------------------   28.68 %
-Other                              604 hrs 53 mins >>>>>--------------------   21.62 %
-Python                             493 hrs 32 mins >>>>---------------------   17.64 %
-C#                                 234 hrs 55 mins >>-----------------------   08.40 %
-Binary                             75 hrs 5 mins   >------------------------   02.68 %
+Rust                               802 hrs 21 mins >>>>>>>------------------   28.66 %
+Other                              604 hrs 54 mins >>>>>--------------------   21.61 %
+Python                             493 hrs 32 mins >>>>---------------------   17.63 %
+C#                                 234 hrs 55 mins >>-----------------------   08.39 %
+Binary                             75 hrs 26 mins  >------------------------   02.70 %
 HTML                               59 hrs 31 mins  >------------------------   02.13 %
-Kotlin                             57 hrs 37 mins  >------------------------   02.06 %
+Kotlin                             57 hrs 43 mins  >------------------------   02.06 %
 Markdown                           55 hrs 35 mins  -------------------------   01.99 %
 Go                                 55 hrs 22 mins  -------------------------   01.98 %
 Razor                              45 hrs 12 mins  -------------------------   01.62 %
