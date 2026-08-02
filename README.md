@@ -2,14 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2022 - To: 31 July 2026
+From: 30 September 2022 - To: 01 August 2026
 
-Total Time: 3,975 hrs 33 mins
+Total Time: 3,975 hrs 58 mins
 
 Other                              1,146 hrs 36 mins     >>>>>>>------------------   28.84 %
 Rust                               812 hrs 58 mins       >>>>>--------------------   20.45 %
-Python                             507 hrs 7 mins        >>>----------------------   12.76 %
-C#                                 483 hrs 25 mins       >>>----------------------   12.16 %
+Python                             507 hrs 7 mins        >>>----------------------   12.75 %
+C#                                 483 hrs 50 mins       >>>----------------------   12.17 %
 Binary                             181 hrs 59 mins       >------------------------   04.58 %
 Razor                              93 hrs 54 mins        >------------------------   02.36 %
 Markdown                           85 hrs 5 mins         >------------------------   02.14 %
